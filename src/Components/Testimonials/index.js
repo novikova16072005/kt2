@@ -1,7 +1,7 @@
 import React from "react";
-import styles from "./index.module.css";
-import leftArrow from "./img/left-arrow.png";
-import rightArrow from "./img/right-arrow.png";
+import styles from "./style.css";
+import leftArrow from "../img/left-arrow.png";
+import rightArrow from "../img/right-arrow.png";
 
 function Testimonials() {
     return (
@@ -51,10 +51,6 @@ function Testimonials() {
                 <div className={styles.slider2}>
                     <div className={styles.slides2}>
                         <div>
-                            <img className={styles.img} src="https://preview.colorlib.com/theme/expert/images/person_4.jpg.webp"></img>
-                        </div>
-
-                        <div>
                             <img className={styles.img} src="https://preview.colorlib.com/theme/expert/images/person_1.jpg.webp"></img>
                         </div>
 
@@ -64,6 +60,10 @@ function Testimonials() {
 
                         <div>
                             <img className={styles.img} src="https://preview.colorlib.com/theme/expert/images/person_3.jpg.webp"></img>
+                        </div>
+
+                        <div>
+                            <img className={styles.img} src="https://preview.colorlib.com/theme/expert/images/person_4.jpg.webp"></img>
                         </div>
                     </div>
                     <div className={styles.buttonContainer}>

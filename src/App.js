@@ -4,8 +4,8 @@ import Header from './Components/Header';
 import Home from './Components/Home'
 import Paragraph from './Components/Paragraph';
 import Process from './Components/Process';
-import Testimonials from './Components/Testimonials/index';
-import Services from './Components/Services/index';
+import Testimonials from './Components/Testimonials';
+import Services from './Components/Services';
 import Footer from './Components/Footer';
 import Contact from './Components/Contact';
 
