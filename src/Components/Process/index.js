@@ -1,10 +1,10 @@
 import React from "react";
-import styles from "./index.module.css";
+import styles from "./style.css";
 import Eyeglasses from "./img/eyeglasses.png";
 import Vector from "./img/vector.png";
 import Monitor from "./img/monitor.png";
 
-function Paragraph3() {
+function Process() {
     return(
         <div className={styles.body}>
             <section id="Process"></section>
@@ -59,4 +59,4 @@ function Paragraph3() {
     )
 };
 
-export default Paragraph3;
+export default Process;

@@ -39,7 +39,7 @@ function Paragraph() {
       <div className={styles.box}> 
           <img className={styles.vectorImg} src={VertorPng}></img>
           <p className={styles.text3}>Pixel Perfect Templates</p>
-          <p className={styles.p1}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Obcaecati commodi aspernatur eum eius inventore facilis.</p>
+          <p className={styles.p1}>Lorem ipsum dolor sit amet, consectetur adipisicing elit.Hello, pan Mukola! Obcaecati commodi aspernatur eum eius inventore facilis.</p>
           <p className={styles.p2}>Visit <a className={styles.visitLink}>Colorlib</a></p>
       </div> 
       
