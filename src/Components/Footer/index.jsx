@@ -1,12 +1,12 @@
 import React from "react";
-import styles from './style.css' ;
+import styles from "./index.module.css";
 
 function Footer() {
     return(
         <div className={styles.footer}>
             <div className={styles.container}>
                 <div className={styles.item}>
-                    <h1 className={styles.tittle}>About us</h1>
+                    <h1 className={styles.tittle}>about us</h1>
                     <p className={styles.text}> 
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                         Porro consectetur ut hic ipsum et veritatis corrupti. Itaque

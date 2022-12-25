@@ -5,7 +5,7 @@
     position: fixed;
     z-index: 6;
     top: 0;
-    box-shadow: 0px 3px 20px grey;}
+}
 
 .siteLogo {
     text-transform: uppercase;
@@ -79,7 +79,7 @@ a:hover::after {
     color: white;
     font-size: 18px;
     box-sizing: border-box;
-    background-color: #e7293c;
+    background-color: #dc3545;
     height: 40px;
     width: 105px;
     border: none;

@@ -1,13 +1,13 @@
 import React from "react";
-import styles from "./style.css";
-import rightArrow from "../img/right-arrow.png";
-import leftArrow from "../img/left-arrow.png";
+import styles from "./index.module.css";
+import leftArrow from "./img/left-arrow.png";
+import rightArrow from "./img/right-arrow.png";
 
 function Home() {
   return (
     <div className={styles.homeSection}>
       <section id="Home" />
-      <div className={styles.carusel}>
+      <div className={styles.carousel}>
         <div className={styles.slider1}>
           <div className={styles.slides}>
             <div>

@@ -1,11 +1,11 @@
 import React from "react";
-import SunGlasses from "../img/sun-glasses.png";
-import Download from "../img/download1.png";
-import Monitor from "../img/monitor1.png";
-import Refresh from "../img/refresh.png";
-import Message from "../img/message.png";
-import Box from "../img/box.png";
-import styles from "./style.css";
+import SunGlasses from "./img/sun-glasses.png";
+import Download from "./img/download.png";
+import Monitor from "./img/monitor.png";
+import Refresh from "./img/refresh.png";
+import Message from "./img/message.png";
+import Box from "./img/box.png";
+import styles from "./index.module.css";
 
 function Services() {
   return (
