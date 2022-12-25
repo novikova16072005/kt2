@@ -9,7 +9,8 @@ import Services from './Components/Services';
 import Footer from './Components/Footer';
 import Contact from './Components/Contact';
 
-import './App.css';
+import './App.css'; 
+
 
 function App() {
   return (
